@@ -2,9 +2,9 @@
 
 <img src="hero.svg" alt="Fernando Angolar — Backend Developer" width="100%"/>
 
-[![Email](https://img.shields.io/badge/Email-Falar_comigo-1d6fe0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandoangolar581@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ligar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-angolar-692a0423a)
-[![Wundu](https://img.shields.io/badge/Wundu-Organização-0b1f4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WUNDU)
+[![Email](https://img.shields.io/badge/Email-Falar_comigo-0d9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandoangolar581@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ligar-0f766e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-angolar-692a0423a)
+[![Wundu](https://img.shields.io/badge/Wundu-Organização-04201f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WUNDU)
 
 </div>
 
@@ -53,16 +53,16 @@ Estou sempre aberto a aprender coisas novas, trabalhar em equipa e discutir idei
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fernando-angolar&show_icons=true&hide_border=false&title_color=38bdf8&text_color=c7d8fb&icon_color=60a5fa&bg_color=0b1f4a&border_color=3b82f6"/>
-<img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-angolar&layout=compact&title_color=38bdf8&text_color=c7d8fb&bg_color=0b1f4a&border_color=3b82f6"/>
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fernando-angolar&show_icons=true&title_color=2dd4bf&text_color=cdeee9&icon_color=5eead4&bg_color=04201f&border_color=14b8a6"/>
+<img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-angolar&layout=compact&title_color=2dd4bf&text_color=cdeee9&bg_color=04201f&border_color=14b8a6"/>
 </p>
 
 <p align="center">
-<img alt="Streak" src="https://streak-stats.demolab.com?user=fernando-angolar&background=0b1f4a&ring=38bdf8&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=c7d8fb&currStreakNum=ffffff&sideNums=ffffff&dates=c7d8fb&stroke=3b82f6&border=3b82f6"/>
+<img alt="Streak" src="https://streak-stats.demolab.com?user=fernando-angolar&background=04201f&ring=2dd4bf&fire=2dd4bf&currStreakLabel=99f6e4&sideLabels=cdeee9&currStreakNum=ffffff&sideNums=ffffff&dates=cdeee9&stroke=14b8a6&border=14b8a6"/>
 </p>
 
 <p align="center">
-<img alt="Actividade" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernando-angolar&bg_color=0b1f4a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=1d6fe0&hide_border=true"/>
+<img alt="Actividade" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernando-angolar&bg_color=04201f&color=99f6e4&line=2dd4bf&point=ffffff&area=true&area_color=0d9488&hide_border=true"/>
 </p>
 
 <div align="center">
